@@ -1,0 +1,13 @@
+## Interface: 11303
+## Title: QuestHerald
+## Author: Anthony Armatas
+## Version: 0.1
+## SavedVariables: WelcomeHomeDB
+## OptionalDeps: Ace3
+## X-Embeds: Ace3
+
+# Libs
+embeds.xml
+
+AudioLengthLibrary.lua
+main.lua
